@@ -138,4 +138,3 @@ The user can type the command below to terminate the process at any time.
 - Command Format
 `exit`
 
----
